@@ -15,19 +15,19 @@ An exploratory data analysis (EDA) project using Python to examine global life e
 - Source: Kaggle – Life Expectancy and Socio-Economic Indicators - World Bank Open Data
 - Overview: The dataset includes annual data from 2000 to 2019 for 174 countries, covering various socio-economic and health-related indicators that potentially influence life expectancy.
 - Key Features:
-Country, Country Code, Region, IncomeGroup – Basic identifiers and classifications
-Life expectancy – Average expected lifespan at birth
-CO2 (kiloton) – Environmental impact from fossil fuels
-Health Expenditure (% of GDP) – National health spending
-Education Expenditure (% of GDP) – Public education spending
-Unemployment (% of labor force) – Labor market indicator
-Corruption (CPIA rating) – Governance and transparency
-Sanitation Access (% of Population) – Population using safe sanitation services
-Undernourishment (% of Population) – Population with inadequate dietary energy
-DALYs due to Communicable / Non-Communicable Diseases / Injuries – Measures of health burden and quality of life loss
-GDP, Population – Merged from external World Bank datasets
-GDP per capita – Calculated during preprocessing
-Total Diseases and Injuries – Calculated during preprocessing
+1. Country, Country Code, Region, IncomeGroup – Basic identifiers and classifications
+2. Life expectancy – Average expected lifespan at birth
+3. CO2 (kiloton) – Environmental impact from fossil fuels
+4. Health Expenditure (% of GDP) – National health spending
+5. Education Expenditure (% of GDP) – Public education spending
+6. Unemployment (% of labor force) – Labor market indicator
+7. Corruption (CPIA rating) – Governance and transparency
+8. Sanitation Access (% of Population) – Population using safe sanitation services
+9. Undernourishment (% of Population) – Population with inadequate dietary energy
+10. DALYs due to Communicable / Non-Communicable Diseases / Injuries – Measures of health burden and quality of life loss
+11. GDP, Population – Merged from external World Bank datasets
+12. GDP per capita – Calculated during preprocessing
+13. Total Diseases and Injuries – Calculated during preprocessing
 => These features allow for in-depth analysis of how economic, environmental, and healthcare factors correlate with life expectancy across different regions and income groups.
 
 # Outcome
